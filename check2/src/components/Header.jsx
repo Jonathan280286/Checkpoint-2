@@ -5,7 +5,7 @@ const Header = (props) => {
     return (
         <div className='header'>
             <h1>Bienvenue sur : {props.name} !</h1>
-            <h3>Powered by Marabrouteur!!!</h3>
+            <h3>Powered by The Marabrouteur!!!</h3>
         </div>
     );
 };
